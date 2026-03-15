@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No. 6 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.11.12%20PM.jpeg?raw=true)
+![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.12.13%20PM.jpeg?raw=true)
+![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.12.58%20PM.jpeg?raw=true)
 
-### Name:
-### Register Number:
+### Name: MIRDULA D
+### Register Number: 212225040234
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
