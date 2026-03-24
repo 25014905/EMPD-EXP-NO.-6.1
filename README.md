@@ -39,9 +39,10 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/Screenshot%202026-03-24%20134715.png?raw=true)
+
 
 ![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/Screenshot%202026-03-24%20134653.png?raw=true)
+![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/Screenshot%202026-03-24%20134715.png?raw=true)
 
 ## Output:
 ![image](https://github.com/25014905/EMPD-EXP-NO.-6.1/blob/main/WhatsApp%20Image%202026-03-15%20at%208.11.12%20PM.jpeg?raw=true)
